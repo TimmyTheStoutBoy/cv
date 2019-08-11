@@ -1,0 +1,88 @@
+
+p {
+  white-space: pre-wrap;
+}
+
+.front, .front1 {
+  margin: 3rem auto 0 auto;
+}
+
+.logo {
+  text-align: center;
+  width: 15rem;
+}
+
+.navbar ul {
+    text-align: center;
+    margin: auto auto;
+}
+
+.navbar {
+  margin: 1rem auto;
+  height: 3.5rem;
+}
+
+.navbar li {
+  margin: 2rem 4rem;
+}
+
+.front{
+text-align: center;
+}
+
+
+.main img {
+  width: 20rem;
+  border-radius: 50%;
+}
+
+.main_ed img{
+  width: 20rem;
+}
+
+.contacts h2{
+  margin: auto auto 2rem auto;
+}
+
+.contacts {
+  text-align: center;
+  margin: 15rem auto 0 auto;
+}
+
+.contact_text {
+text-align: center;
+width: auto;
+}
+
+.icons {
+  font-size: 1.5rem;
+  width: auto;
+  text-align: center;
+}
+
+.icon {
+  padding: 10px;
+  width: 2.8rem;
+  text-align: center;
+  border-radius: 100%;
+  margin: 2rem 2rem;
+}
+
+#self-taught {
+  width: 15rem;
+}
+
+.copyright {
+  margin-top: 7rem;
+text-align: center;
+  }
+
+.devancer {
+  width: 40rem;
+  text-align: center;
+  margin: 5rem auto 0 auto;
+}
+
+.project1 {
+  text-align: left;
+}
